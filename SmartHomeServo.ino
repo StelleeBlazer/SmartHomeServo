@@ -7,7 +7,7 @@
 
 char auth[] = "YourAuthToken";
 char ssid[] = "Nama Hotspotmu";
-char pass[] = "Password HS(Hotspot)mu";
+char pass[] = "Password Hotspot";
 
 //definisi fungsi servo menjadi gerak_servo
 Servo gerak_servo;
